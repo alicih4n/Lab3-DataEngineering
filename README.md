@@ -18,6 +18,7 @@ This repository contains the deliverables for Lab 3, focusing on simulating a re
 - `Lab3_DataEngineering.ipynb`: Main Jupyter Notebook containing the analysis, cleaning, and visualizations.
 - `requirements.txt`: List of Python dependencies.
 - `README.md`: Project documentation.
+- `create_submission_pdf.py`: Script to generate the submission PDF.
 
 ## Setup & Usage
 
@@ -34,6 +35,7 @@ This repository contains the deliverables for Lab 3, focusing on simulating a re
 
 3.  **Run Analysis:**
     Open `Lab3_DataEngineering.ipynb` in Jupyter Lab or VS Code to view the data engineering process and insights.
+    **Note:** Ensure you restart the kernel and run all cells to fetch the freshest data from the database.
 
 ## Project Highlights
 - **Dirty Data Simulation**: 20% of generated records contain missing names, salaries, or logical errors (dates < 2015).
