@@ -1,7 +1,7 @@
 # Lab 3: Data Engineering & EDA - Wrangling Workshop
 
 **Student:** Ali Cihan Ozdemir (9091405)  
-**Partner:** Roshan  
+**Group Partner:** Roshan (Absent/Did not contribute to this submission)  
 **Course:** PROG8245 - Data Engineering  
 
 ---
